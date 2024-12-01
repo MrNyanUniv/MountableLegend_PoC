@@ -1,0 +1,36 @@
+{
+    "portraitScale": 1.7,
+    "portraitTranslation": [-0.25,0.5,0],
+    "profileScale": 0.7,
+    "profileTranslation": [0, 0.6, 0],
+    "poses": {
+        "hovering": {
+            "poseName": "hovering",
+            "transformTicks": 10,
+            "poseTypes": ["HOVER", "PORTRAIT", "PROFILE", "NONE","STAND"],
+            "animations": [
+              "bedrock(darkrai_legendmount, air_idle)"
+            ]
+          },
+        "flying": {
+        "poseName": "flying",
+        "transformTicks": 10,
+        "poseTypes": ["FLY","WALK"],
+        "animations": [
+          "bedrock(darkrai_legendmount, air_fly)"
+        ]
+		},
+		"leftshoulder": {
+			"poseName": "leftshoulder",
+			"transformTicks": 10,
+			"poseTypes": ["SHOULDER_LEFT"],
+			"animations": ["bedrock(darkrai_legendmount, shoulder_left)"]
+		},
+		"rightshoulder": {
+			"poseName": "rightshoulder",
+			"transformTicks": 10,
+			"poseTypes": ["SHOULDER_RIGHT"],
+			"animations": ["bedrock(darkrai_legendmount, shoulder_right)"]
+		}
+    }
+  }

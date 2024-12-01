@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:darkrai",
+  "order": 100,
+  "variations": [
+    {
+      "aspects": ["legend_mount"],
+      "poser": "cobblemon:darkrai_legendmount",
+      "model": "cobblemon:darkrai_legendmount.geo",
+      "texture": "cobblemon:textures/pokemon/darkrai/darkrai.png"
+    },
+    {
+      "aspects": [ "legend_mount", "shiny" ],
+      "texture": "cobblemon:textures/pokemon/darkrai/darkrai_shiny.png"
+    }
+  ]
+}

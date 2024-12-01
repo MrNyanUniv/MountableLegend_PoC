@@ -1,0 +1,6 @@
+{
+  "keys": ["legend_mount"],
+  "type": "flag",
+  "isAspect": true,
+  "default": false
+}
