@@ -1,6 +1,7 @@
 # Proof of Concept Shoulder-Mountable Legendary in Cobblemon!
 
 [![Screenshots Here](https://github.com/user-attachments/assets/b753fbfb-ae58-4d9a-99c0-1dee64314b87)](https://imgur.com/a/psD51FM)
+*(Click the image to view screenshots!)*
 
 This is a resource/data pack that includes an example of how to make a legendary pokemon shoulder-mountable without altering the original pokemon. This relies on using the species_additions file system that adds to a target species file instead of replacing the full file within cobblemon.
 
